@@ -1,0 +1,11 @@
+{
+  "language": "TypeScript",
+  "app": "npm run --silent compile && node main.js",
+  "terraformProviders": [],
+  "terraformModules": [],
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true"
+  },
+  "projectId": "4c0b5368-df9d-499d-9939-d2f7a0fc2207"
+}
